@@ -1,0 +1,9 @@
+matplotlib
+networkx
+numpy
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+scipy
+seaborn
+tqdm
